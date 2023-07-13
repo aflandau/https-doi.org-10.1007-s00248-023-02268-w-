@@ -1,0 +1,73 @@
+Leaf species,Microbial treatment,Light condition,Bacterial abundance
+Beech,Diatoms low,Darkness,5.52508561
+Beech,Diatoms low,Darkness,31.20485112
+Beech,Diatoms low,Darkness,63.46119868
+Beech,Diatoms high,Darkness,11.69154784
+Beech,Diatoms high,Darkness,39.84363112
+Beech,Diatoms high,Darkness,53.3399483
+Beech,Bacteria,Darkness,7.73630488
+Beech,Bacteria,Darkness,36.4961881925
+Beech,Bacteria,Darkness,46.2051365725
+Beech,Fungi,Darkness,11.73089876
+Beech,Fungi,Darkness,32.1059424
+Beech,Fungi,Darkness,40.4417723
+Beech,Combined low,Darkness,4.95752402
+Beech,Combined low,Darkness,29.00028435
+Beech,Combined low,Darkness,45.5457952
+Beech,Combined high,Darkness,4.64284934
+Beech,Combined high,Darkness,27.13511738
+Beech,Combined high,Darkness,47.14544289
+Beech,Diatoms low,Light,5.46220577
+Beech,Diatoms low,Light,15.9346172
+Beech,Diatoms low,Light,49.39243889
+Beech,Diatoms high,Light,5.93836012
+Beech,Diatoms high,Light,18.984538745
+Beech,Diatoms high,Light,40.983211225
+Beech,Bacteria,Light,3.8864271
+Beech,Bacteria,Light,15.25851977
+Beech,Bacteria,Light,37.49456454
+Beech,Fungi,Light,7.6953427
+Beech,Fungi,Light,29.8636054625
+Beech,Fungi,Light,50.7981914025
+Beech,Combined low,Light,3.7947697125
+Beech,Combined low,Light,13.4740208025
+Beech,Combined low,Light,46.83813237
+Beech,Combined high,Light,4.6059440375
+Beech,Combined high,Light,27.0729235375
+Beech,Combined high,Light,52.998233325
+Alder,Diatoms low,Darkness,36.558384575
+Alder,Diatoms low,Darkness,59.0064283
+Alder,Diatoms low,Darkness,84.141787185
+Alder,Diatoms high,Darkness,21.54813036
+Alder,Diatoms high,Darkness,69.31253184
+Alder,Diatoms high,Darkness,123.21076955
+Alder,Bacteria,Darkness,75.26646813
+Alder,Bacteria,Darkness,163.28325404
+Alder,Bacteria,Darkness,163.8603284725
+Alder,Fungi,Darkness,17.67186859
+Alder,Fungi,Darkness,42.7123128775
+Alder,Fungi,Darkness,61.1116045575
+Alder,Combined low,Darkness,63.64945804
+Alder,Combined low,Darkness,102.7810717525
+Alder,Combined low,Darkness,144.1783654125
+Alder,Combined high,Darkness,40.7001693
+Alder,Combined high,Darkness,85.32820573
+Alder,Combined high,Darkness,113.2382988425
+Alder,Diatoms low,Light,32.58012892
+Alder,Diatoms low,Light,67.330155345
+Alder,Diatoms low,Light,81.393618755
+Alder,Diatoms high,Light,11.2308728625
+Alder,Diatoms high,Light,28.1570802875
+Alder,Diatoms high,Light,86.297855225
+Alder,Bacteria,Light,105.41881253
+Alder,Bacteria,Light,164.21771188
+Alder,Bacteria,Light,118.47378756
+Alder,Fungi,Light,29.70866019
+Alder,Fungi,Light,60.23924747
+Alder,Fungi,Light,97.84938811
+Alder,Combined low,Light,77.20201839
+Alder,Combined low,Light,153.56606
+Alder,Combined low,Light,219.48996374
+Alder,Combined high,Light,188.62788969
+Alder,Combined high,Light,261.18462488
+Alder,Combined high,Light,181.11225651

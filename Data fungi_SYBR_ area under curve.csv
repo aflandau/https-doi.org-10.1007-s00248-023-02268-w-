@@ -1,0 +1,37 @@
+Leaf_species,Treatment,Light_condition,Fungal_abundance
+Beech,Fungi,Darkness,24.66300581
+Beech,Fungi,Darkness,55.20853452
+Beech,Fungi,Darkness,65.23899097
+Beech,Combined low,Darkness,2.88153887
+Beech,Combined low,Darkness,17.54245105
+Beech,Combined low,Darkness,55.89902132
+Beech,Combined high,Darkness,2.42217423
+Beech,Combined high,Darkness,36.08288274
+Beech,Combined high,Darkness,72.16543555
+Beech,Fungi,Light,0.458850381
+Beech,Fungi,Light,14.8982081435
+Beech,Fungi,Light,58.8954144225
+Beech,Combined low,Light,0.2377602125
+Beech,Combined low,Light,8.3797028225
+Beech,Combined low,Light,33.51523812
+Beech,Combined high,Light,0.697365766666667
+Beech,Combined high,Light,18.8466996291667
+Beech,Combined high,Light,42.778603725
+Alder,Fungi,Darkness,46.0245421125
+Alder,Fungi,Darkness,118.2467856
+Alder,Fungi,Darkness,103.7548102475
+Alder,Combined low,Darkness,92.13138653
+Alder,Combined low,Darkness,133.538711105
+Alder,Combined low,Darkness,88.354966605
+Alder,Combined high,Darkness,66.0921634375
+Alder,Combined high,Darkness,127.0433966975
+Alder,Combined high,Darkness,111.91529146
+Alder,Fungi,Light,84.76371488
+Alder,Fungi,Light,164.08220787
+Alder,Fungi,Light,124.33774776
+Alder,Combined low,Light,62.76910832
+Alder,Combined low,Light,77.08237036
+Alder,Combined low,Light,40.20819972
+Alder,Combined high,Light,54.50369379
+Alder,Combined high,Light,83.00105855
+Alder,Combined high,Light,43.78241062
